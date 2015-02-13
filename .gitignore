@@ -8,5 +8,3 @@
 *.swp
 # all .bin files that are used for data
 *.bin
-# all .mat files that are used for data
-*.mat
