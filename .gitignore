@@ -1,0 +1,12 @@
+# Ignored file #
+################
+
+### Text files ###
+# all .asv files from MATLAB
+*.asv
+# all .swp swap files
+*.swp
+# all .bin files that are used for data
+*.bin
+# all .mat files that are used for data
+.mat
