@@ -10,6 +10,7 @@ You can find the appropriate data for each exercise at:
   1. For the sparseae_exercise, you do not need to do anythings as the data are already included (it is the `IMAGES.mat` file).
   2. For the sparseae_exercise_vector, you do not need to do anything as the data are already included (it is the `IMAGES.mat` file).
   3. For the pca_2d, you do not need to do anything as the data are already included (it is the `pcaData.txt` file).
+  4. For the pca_exercise, you do not need to do anything as the data are already included (it is the `IMAGES_RAW.mat` file).
 
 #### A note about the license
 
