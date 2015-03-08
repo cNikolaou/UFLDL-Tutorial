@@ -11,6 +11,12 @@ You can find the appropriate data for each exercise at:
   2. For the sparseae_exercise_vector, you do not need to do anything as the data are already included (it is the `IMAGES.mat` file).
   3. For the pca_2d, you do not need to do anything as the data are already included (it is the `pcaData.txt` file).
   4. For the pca_exercise, you do not need to do anything as the data are already included (it is the `IMAGES_RAW.mat` file).
+  5. For the softmax_exercise, you need to download the [MNIST dataset](http://yann.lecun.com/exdb/mnist/). Specifically, you need to download:
+    * The `train-images-idx3-ubyte.gz`
+    * The `train-labels-idx1-ubyte.gz`
+    * The `t10k-images-idx3-ubyte.gz`
+    * The `t10k-labels-idx1-ubyte.gz`
+    More information can be found on the tutorial's [webpage](http://ufldl.stanford.edu/wiki/index.php/Exercise:Softmax_Regression).
 
 #### A note about the license
 

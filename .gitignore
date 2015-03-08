@@ -8,3 +8,5 @@
 *.swp
 # all .bin files that are used for data
 *.bin
+# all ubyte files from MNIST
+*-ubyte
