@@ -17,6 +17,7 @@ You can find the appropriate data for each exercise at:
     * The `t10k-images-idx3-ubyte.gz`
     * The `t10k-labels-idx1-ubyte.gz`
     More information can be found on the tutorial's [webpage](http://ufldl.stanford.edu/wiki/index.php/Exercise:Softmax_Regression).
+  6. For the stl_exercise, you need to download the same dataset as in the softmax_exercise (see 5).
 
 #### A note about the license
 
